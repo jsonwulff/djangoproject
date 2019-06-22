@@ -92,3 +92,4 @@ db.sqlite3
 settings.py
 
 manage.py
+__init__.py
