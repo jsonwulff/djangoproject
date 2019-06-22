@@ -87,4 +87,8 @@ local_settings.py
 
 .env
 db.sqlite3
+
+# Security - Hiding private key and db password
 settings.py
+
+manage.py
